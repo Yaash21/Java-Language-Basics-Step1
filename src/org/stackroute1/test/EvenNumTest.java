@@ -1,9 +1,10 @@
-package org.stackroute1;
+package org.stackroute1.test;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+import org.stackroute1.EvenNum;
 
 public class EvenNumTest {
 

@@ -1,10 +1,11 @@
-package org.stackroute1;
+package org.stackroute1.test;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.stackroute1.LongFactorial;
 
 public class LongFactorialTest {
 

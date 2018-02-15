@@ -1,4 +1,4 @@
-package org.stackroute1;
+package org.stackroute1.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
@@ -9,6 +9,7 @@ import java.util.HashMap;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.stackroute1.WordCounter;
 
 public class WordCounterTest {
 

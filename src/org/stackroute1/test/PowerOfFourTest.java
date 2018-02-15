@@ -1,4 +1,4 @@
-package org.stackroute1;
+package org.stackroute1.test;
 
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
@@ -6,6 +6,7 @@ import static org.junit.Assert.assertTrue;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.stackroute1.PowerOfFour;
 
 public class PowerOfFourTest {
 
